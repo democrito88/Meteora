@@ -1,0 +1,30 @@
+{
+  "name": "meteora",
+  "version": "1.0.0",
+  "description": "Projeto do curso da alura de estudo da biblioteca css bootstrap 5.3 que emula uma loja web.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/democrito88/meteora.git"
+  },
+  "keywords": [
+    "css",
+    "bootstrap",
+    "webstore",
+    "front-end",
+    "html"
+  ],
+  "author": "Demócrito d'Anunciação",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/democrito88/meteora/issues"
+  },
+  "homepage": "https://github.com/democrito88/meteora#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
