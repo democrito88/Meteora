@@ -1,0 +1,36 @@
+:root{
+    --preto: #000000;
+    --cinza: #cccccc;
+    --verde-limão: #daff01;
+    --roxo: #9353ff;
+    --avermelhado: #ee6471;
+    --laranja: #f87f46;
+}
+
+.texto-menor{
+    font-size: 13px;
+    text-wrap: wrap;
+}
+
+.section-facilidades{
+    background-color: var(--preto);
+    color: var(--verde-limão);
+}
+
+.btn-roxo{
+    background-color: var(--roxo);
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
