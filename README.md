@@ -8,5 +8,8 @@ Projeto do curso da alura _"Bootstrap5: crie uma landing page responsiva"_, que 
 ![License](https://img.shields.io/badge/MIT-%2315726B.svg?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-2-%23FCD535.svg?style=for-the-badge)
 
+
+![Meteora](assets/Meteora.png)
+
 ### Autor
 [Demócrito d'Anunciação](https://github.com/democrito88)
